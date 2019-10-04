@@ -16,7 +16,7 @@
 
 ### Pixhawk Wiring
 
-   Check the PX4 user guide:  https://docs.px4.io/master/en/assembly/quick_start_pixhawk.html
+   Check the user guide:  https://docs.px4.io/master/en/assembly/quick_start_pixhawk.html
 
 ### Power Module Schematic (GM v1.0)
 
