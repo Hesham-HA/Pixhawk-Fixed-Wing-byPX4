@@ -1,8 +1,8 @@
-** Notes: 
-          
           Some calibrations would need a connection to the vehicle via USB and not the telemetry. 
-           You'd not necessarily need to wire all the components or to mount the Pixhawk inside the Vehicle.
-           You can start the calibration by selecting the gear button and choose the sensor to calibrate as follows.
+          You'd not necessarily need to wire all the components or to mount the Pixhawk inside the Vehicle.
+          You can start the calibration by selecting the gear button and choose the sensor to calibrate as follows.
 ----------------------------------------------------------------------------------------------
 # Compass
-  * 
+  * Click the compass button at the left of the screen
+  * Rotate the vehicle in all directions like how it appears on the screen
+  ![p1](https://docs.px4.io/master/images/qgc/setup/sensor_compass_calibrate_px4.jpg)
