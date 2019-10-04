@@ -28,4 +28,4 @@
 ### I2C Pinout
    ![RangeFinder_MaxBotixI2C_Pixhawk.jpg](http://ardupilot.org/copter/_images/RangeFinder_MaxBotixI2C_Pixhawk.jpg)
 
-**Note: It's necessary to connect all the ports correctly and check the pinout schematics due to mitigate any possible risks.
+**Note: It's necessary to connect all the ports correctly and check the pinout schematics to mitigate any possible risks.
